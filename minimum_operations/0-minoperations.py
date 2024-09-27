@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+
 """
 Minimum Operations Module
 
@@ -10,7 +11,6 @@ The only operations allowed are 'Copy All' and 'Paste'.
 """
 
 import math
-
 
 def minOperations(n):
     """
